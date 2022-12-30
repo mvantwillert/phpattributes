@@ -1,0 +1,15 @@
+{
+    "name": "melvinvantwillert/phpattributes",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Melvin van Twillert",
+            "email": "mvtwillert@enrise.com"
+        }
+    ],
+    "require": {}
+}
